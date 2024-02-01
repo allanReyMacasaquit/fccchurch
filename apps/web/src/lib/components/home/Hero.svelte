@@ -1,37 +1,33 @@
-<section class="flex h-[90vh] items-center justify-center bg-slate-800">
-	<div class="container mx-auto flex h-full items-center justify-around">
+
+<section style="background-image: url('/images/youngPeopleImage.jpg');" class="flex h-[30vh] sm:h-[90vh] bg-contain bg-no-repeat sm:bg-cover sm:bg-gradient-to-t sm:from-blue-950 to-green-800 items-center justify-center ">
+	
+	<div style="background-image: url('/images/youthImage.jpg');" class="sm:rounded-2xl sm:bg-gradient-to-t sm:from-blue-950 to-green-800 mt-40 sm:mt-[480px] mx-auto bg-contain bg-no-repeat flex h-[420px] sm:h-auto p-4 items-center justify-around ">
 		<div
 			class="container mx-10 flex h-full flex-col items-center justify-center"
 		>
 			<h1
-				class="h1 mb-10 flex rounded-lg border bg-green-800 p-2 text-center text-5xl font-bold text-white shadow-md shadow-white"
+				class="tracking-widest mt-80 h1 mb-10 flex flex-col rounded-lg sm:border sm:bg-green-800 p-2 text-center text-5xl font-bold text-white sm:shadow-md sm:shadow-white"
 			>
-				Freedom in Christ Church
+				Freedom in Christ <span class="pt-4 text-slate-800">Church</span>
 			</h1>
 			<h2
-				class="h2 top-52 border-b border-slate-700 text-center text-2xl text-white"
+				class="h2 hidden sm:flex top-52 border-b border-slate-700 text-center text-2xl text-white"
 			>
 				A Christ-centred, Holy Spirit-led community -
 			</h2>
 
 			<h2
-				class="h2 top-52 border-b border-slate-700 text-center text-2xl text-white"
+				class="h2 hidden sm:flex top-52 border-b border-slate-700 text-center text-2xl text-white"
 			>
 				Committed to the building of strong relationships -
 			</h2>
 			<h2
-				class="h2 top-52 border-b border-slate-700 text-center text-2xl text-white"
+				class="h2 hidden sm:flex top-52 border-b border-slate-700 text-center text-2xl text-white"
 			>
 				and planting of healthy reproducing churches.
 			</h2>
 		</div>
-		<div class="container ml-32 hidden h-full flex-col justify-center md:flex">
-			<img
-				src="images/hero.jpg"
-				alt="hero"
-				class="m-4 rounded-full md:h-96 md:w-96"
-			/>
-		</div>
+		
 	</div>
 </section>
 <section class="mt-32 bg-slate-400 p-2">
