@@ -5,7 +5,7 @@
 <section
 	class="container mx-auto flex h-fit flex-col justify-center gap-8 px-4 md:my-64"
 >
-	<div class=" w-full mt-10 rounded-lg bg-slate-800 p-8">
+	<div class=" w-full mt-10 text-white rounded-lg bg-slate-800 p-8">
 		<h2
 			class="h2 mb-6 text-center text-4xl font-bold"
 			data-testid="welcome-header"

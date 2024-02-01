@@ -6,12 +6,12 @@
 			class="container mx-10 flex h-full flex-col items-center justify-center"
 		>
 			<h1
-				class="tracking-widest mt-80 h1 mb-10 flex flex-col rounded-lg sm:border sm:bg-green-800 p-2 text-center text-5xl font-bold text-white sm:shadow-md sm:shadow-white"
+				class="tracking-widest mt-80 sm:mt-[300px] h1 mb-10 flex flex-col rounded-lg sm:border sm:bg-green-800 p-2 text-center text-5xl font-bold text-white sm:shadow-md sm:shadow-white"
 			>
-				Freedom in Christ <span class="pt-4 text-slate-800">Church</span>
+				Freedom in Christ <span class=" text-white">Church</span>
 			</h1>
 			<h2
-				class="h2 hidden sm:flex top-52 border-b border-slate-700 text-center text-2xl text-white"
+				class="h2 hidden sm:flex top-52 sm:mt-[30px] border-b border-slate-700 text-center text-2xl text-white"
 			>
 				A Christ-centred, Holy Spirit-led community -
 			</h2>
@@ -30,7 +30,7 @@
 		
 	</div>
 </section>
-<section class="mt-32 bg-slate-400 p-2">
+<section class="mt-44 bg-slate-400 p-2">
 	<div class="my-10 flex items-center justify-center gap-10">
 		<a
 			href="/about"
